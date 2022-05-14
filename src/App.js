@@ -4,7 +4,7 @@ import GroceryList from "./components/grocery-list";
 function App() {
   return (
     <div className="App">
-      <GroceryList/>
+      <GroceryList />
     </div>
   );
 }
